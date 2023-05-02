@@ -11,7 +11,8 @@ A continuació analitzaré les tres visualitzacions que se m'han assignat: Line 
 ## UpSet: Visualizing Intersect Sets
 
 Dataset: https://www.kaggle.com/datasets/shivanandmn/multilabel-classification-dataset
-Es tracta d'un dataset amb calssificació de papers científics i àmbits de coneixements associats:
+Es tracta d'un dataset amb classificació de papers científics i àmbits de coneixements associats:
+
 - Computer Science
 - Physics
 - Mathematics
@@ -20,27 +21,6 @@ Es tracta d'un dataset amb calssificació de papers científics i àmbits de con
 - Quantitative Finance
 
 
-
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-<div style="text-align: center;">
- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
-</div>
 
 ## Using Reverie on GitHub Pages
 
