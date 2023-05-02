@@ -10,7 +10,7 @@ A continuació analitzaré les tres visualitzacions que se m'han assignat: Line 
 ## Gauge Diagram
 ## UpSet: Visualizing Intersect Sets
 
-Dataset: https://www.kaggle.com/datasets/shivanandmn/multilabel-classification-dataset
+[Dataset](https://www.kaggle.com/datasets/shivanandmn/multilabel-classification-dataset)
 Es tracta d'un dataset amb classificació de papers científics i àmbits de coneixements associats:
 
 - Computer Science
