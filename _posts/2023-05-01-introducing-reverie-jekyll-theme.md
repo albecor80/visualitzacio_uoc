@@ -4,15 +4,23 @@ title: PAC 2 - Estudi de tècniques de visualització de dades
 categories: [PAC, tècniques]
 ---
 
+A continuació analitzaré les tres visualitzacions que se m'han assignat: Line Chart, Gauge Diagram i UpSet: Visualizing Intersecting Sets
+
+## Line Chart
+## Gauge Diagram
+## UpSet: Visualizing Intersect Sets
+
+Dataset: https://www.kaggle.com/datasets/shivanandmn/multilabel-classification-dataset
+Es tracta d'un dataset amb calssificació de papers científics i àmbits de coneixements associats:
+- Computer Science
+- Physics
+- Mathematics
+- Statistics
+- Quantitative Biology
+- Quantitative Finance
 
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-![](/images/reverie-demo.png)
-
-## Features overview
 
 - Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
 - Fully responsive and mobile optimized base theme
